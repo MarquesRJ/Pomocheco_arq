@@ -35,7 +35,7 @@ class Pomocheco:
             pomo.desc_trab(timer)
             if timer == 0:
                 playsound('/Pomocheco/Sons/Som_Alerta.wav')
-                messagebox.showinfo("Bom trabalho, cachorro", "Take A Break, \
+                messagebox.showinfo("Bom trabalho!", "Take A Break, \
                     nClick Break Button")
             timer -=1
     
