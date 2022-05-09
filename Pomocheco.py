@@ -1,4 +1,6 @@
-# Pomocheco - Pomodoro em python
+#   Pomocheco - Pomodoro em python   #
+#   Nome: Gabriel Marques   #
+#   E-mail para contato: contato.ghsmarques@gmail.com   #
 
 from logging import root
 import tkinter as tk
